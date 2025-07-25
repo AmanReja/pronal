@@ -400,7 +400,7 @@ const Banner = () => {
               <p>
                 Successfully completed a{" "}
                 <span className="font-medium text-slate-800">
-                  6-month certificate course
+                  3-month certificate course
                 </span>{" "}
                 from CloudX Infotech, gaining hands-on experience by managing{" "}
                 <span className="font-medium text-slate-800">
