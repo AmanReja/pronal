@@ -13,7 +13,7 @@ const testimonials = [
   },
   {
     quote:
-      "She managed multiple live projects during her internship and handled them with great professionalism.",
+      "He managed multiple live projects during her internship and handled them with great professionalism.",
     author: "Lead Hight Internship Supervisor",
   },
   {
@@ -23,12 +23,12 @@ const testimonials = [
   },
   {
     quote:
-      "Her ability to track and analyze performance metrics helped us fine-tune our ad campaigns.",
+      "He is ability to track and analyze performance metrics helped us fine-tune our ad campaigns.",
     author: "Performance Analyst",
   },
   {
     quote:
-      "She’s not just good with analytics — her Canva designs are eye-catching and professional.",
+      "He’s not just good with analytics — her Canva designs are eye-catching and professional.",
     author: "Creative Director",
   },
 ];
